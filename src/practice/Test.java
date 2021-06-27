@@ -8,5 +8,6 @@ public class Test {
         System.out.println("issu1branchでの追加3");
         System.out.println("issu1branchでの追加4");
         System.out.println("issu1branchでの追加5");
+        System.out.println("issu2branchでの追加1");
     }
 }
