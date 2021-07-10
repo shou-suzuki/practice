@@ -12,5 +12,6 @@ public class Test {
         System.out.println("issu2branchでの追加2");
         System.out.println("issu1branchでの追加6");
         System.out.println("issu2branchでの追加3");
+        System.out.println("issu3branchでの追加1");
     }
 }
