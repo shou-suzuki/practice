@@ -16,5 +16,6 @@ public class Test {
         System.out.println("issu4branchでの追加1");
         System.out.println("issu3branchでの追加2");
         System.out.println("issu5branchでの追加1");
+        System.out.println("Github上での追加");
     }
 }
